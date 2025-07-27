@@ -19,3 +19,5 @@ console.log(fruits.name);
 const sum = ()=>{
     console.log(a+b);
 }
+// fixing bugs
+console.log("bug fixed");
