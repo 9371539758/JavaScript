@@ -8,3 +8,14 @@ console.log(payment);
 
 const upi = "upi payment added";
 console.log(upi);
+// we implement an object in javaScripts
+const fruits = {
+    name:"sujit",
+    class:"RSML",
+
+}
+console.log(fruits.name);
+
+const sum = ()=>{
+    console.log(a+b);
+}
